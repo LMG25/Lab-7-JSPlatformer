@@ -1,0 +1,18 @@
+.background    { background: #1a0000;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: rgb(255, 0, 0);}
+.wall          { background-image: url(http://i640.photobucket.com/albums/uu123/STU_WilliamHewitt/tileable_bricks_single.jpg); }
+.floater	   { background: #404040;  }
+
+.actor  { position: absolute;  }
+.player { background: #0000ff; }
+.coin { background-image: url(http://piq.codeus.net/static/media/userpics/piq_376858_400x400.png);
+		background-size: 27px 27px; }
+.tablet { background-image: url(https://cdn.pixabay.com/photo/2016/11/25/07/00/diamond-1857736_960_720.png);
+		  background-size: 20px 20px; }
+
+.game {
+  position: relative;
+}
